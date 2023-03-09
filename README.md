@@ -14,7 +14,7 @@ or
 yarn start
 ```
 
-### Build App
+### Debug App
 ```
 npx react-native run-android
 ```
